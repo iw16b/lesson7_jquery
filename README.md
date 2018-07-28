@@ -1,26 +1,22 @@
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+## Project Name:  Recipe Display Application
 
+### Course Title:
+Web Application Development
 
-Hi there! Welcome to Cloud9 IDE!
+### Assignment Date:  
+(July 27, 2018)
 
-To get you started, we included a small hello world application.
+### Student Name:  
+(Isaiah Walker-Shelby)
 
-1) Open the hello-world.html file
+### Project Description:
+(In this assignment I practiced jquery Dom traversal statements, and other jquery methods for animating, and modyfying html elements.)
 
-2) Click on the Preview button to open a live preview pane
+### View Project Online:
+(https://github.com/iw16b/lesson7_jquery)
 
-3) Make some changes to the file, save, watch the preview, and have fun!
+### Lessons Learned in the Assignment:
+1. (I learned about the usage of the hover method, when hovering over recipe.)
+2. (I learned to create event listeners for h3 elements.)
+3. (The animate method which displays the h3 element.)
 
-Happy coding!
-The Cloud9 IDE team
-
-
-## Support & Documentation
-
-Visit http://docs.c9.io for documentation, or http://support.c9.io for support.
-To watch some training videos, visit http://www.youtube.com/user/c9ide
